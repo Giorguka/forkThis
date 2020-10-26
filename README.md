@@ -1,8 +1,8 @@
-# Project Title
+# Project Title by George
 
-## Forkthis Repo for Practice
+## Forkthis Repo for Practice by George
 
-### Write your author name here. eg. By Nicole
+### Write your author name here. eg. By Georgele
 
 ### Description
 
